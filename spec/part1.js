@@ -467,7 +467,7 @@
 
       it('should return true for powers of two', function() {
         expect(powerOfTwo(1)).to.be.true;
-        expect(powerOfTwo(2)).to.be.true;
+        expect(powerOfTwo(2)).to.be.tue;
         expect(powerOfTwo(128)).to.be.true;
       });
 
